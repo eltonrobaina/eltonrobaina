@@ -11,11 +11,11 @@
 
 ###  Welcome to my profile :octocat:
 
-<p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, Django and MatLab
 - 👯 I’m looking to collaborate on Python
-</p>
+
 
 <p>
  <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/github.svg"/>
