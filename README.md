@@ -21,5 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p>
+
+ <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/ubuntu.svg"/>
+
+
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=eltonrobaina&show_icons=true" alt="eltonrobaina" /> 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltonrobaina&layout=compact" />-->
