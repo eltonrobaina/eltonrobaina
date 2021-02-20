@@ -1,14 +1,14 @@
 ### Hi, I'm Elton J. Robaina da Silva 👋
 
+## Connect with me:
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eltonrobaina)](https://github.com/eltonrobaina)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/elton-robaina)](https://www.linkedin.com/in/elton-robaina/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eltonj.robaina@gmail.com)](mailto:eltonj.robaina@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/EltonRobaina)](https://twitter.com/EltonRobaina)
 [![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=Elton+Robaina&logo=medium&&link=https://medium.com/)](https://medium.com/@elton.robaina)
 
-
-###  Welcome to my profile :octocat:
-
+##  Welcome to my profile :octocat:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, Django and MatLab
