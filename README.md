@@ -10,12 +10,11 @@
 **eltonrobaina/eltonrobaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python, Django and MatLab
 - 👯 I’m looking to collaborate on Python
-- 
--->
+</p>
 
 <p>
  <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/github.svg"/>
