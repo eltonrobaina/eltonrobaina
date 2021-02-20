@@ -1,5 +1,3 @@
-### Hi, I'm Elton J. Robaina da Silva 👋
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/eltonrobaina)](https://github.com/eltonrobaina)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/elton-robaina)](https://www.linkedin.com/in/elton-robaina/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eltonj.robaina@gmail.com)](mailto:eltonj.robaina@gmail.com)
