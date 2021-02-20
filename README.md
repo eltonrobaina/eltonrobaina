@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/github.svg"/>
  <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/ubuntu.svg"/>
  <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/Windows.svg"/>
- <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/Matlab.svg"/>
+
 
 
 </p>
