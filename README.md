@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <p>
  <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/github.svg"/>
  <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/ubuntu.svg"/>
+ <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/Windows.svg"/>
 
 
 </p>
