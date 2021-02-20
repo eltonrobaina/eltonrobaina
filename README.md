@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/elton-robaina/)](https://www.linkedin.com/in/elton-robaina/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eltonj.robaina@gmail.com)](mailto:eltonj.robaina@gmail.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/EltonRobaina)](https://twitter.com/EltonRobaina)
-[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=Igor+Carvalho&logo=medium&&link=https://medium.com/)](https://medium.com/@elton.robaina)
+[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=Elton+Robaina&logo=medium&&link=https://medium.com/)](https://medium.com/@elton.robaina)
 
 <!--
 **eltonrobaina/eltonrobaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
