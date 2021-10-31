@@ -17,7 +17,7 @@
  <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/ubuntu.svg"/>
  <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/Windows.svg"/>
  <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/Python.svg"/>
- <img width="36" src="https://github.com/eltonrobaina/eltonrobaina/blob/main/icons/Matlab_Logo.svg"/>
+ <img width="36" src="https://commons.wikimedia.org/wiki/File:R_logo.svg"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=eltonrobaina&show_icons=true" alt="eltonrobaina" /> 
