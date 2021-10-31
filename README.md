@@ -8,7 +8,7 @@
 ### Welcome to my profile :octocat:
 
 - 🔭 I’m currently working on precipitation nowcasting
-- 🌱 I’m currently learning Python, Django,R and Stochastic processes
+- 🌱 I’m currently learning Python, Django, R and Stochastic processes
 - 👯 I’m looking to collaborate on Scientific Python projects 
 
 ### Languages and Tools:
