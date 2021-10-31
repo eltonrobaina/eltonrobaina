@@ -7,9 +7,9 @@
 ### Hi, I'm Elton J. Robaina da Silva 👋
 ### Welcome to my profile :octocat:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python, Django and MatLab
-- 👯 I’m looking to collaborate on Python
+- 🔭 I’m currently working on precipitation nowcasting
+- 🌱 I’m currently learning Python, Django,R and Stochastic processes
+- 👯 I’m looking to collaborate on Scientific Python projects 
 
 ### Languages and Tools:
 <p>
